@@ -1,0 +1,6 @@
+macos
+.dbeaver
+Script*.sql
+.project
+.settings
+.DS_Store
