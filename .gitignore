@@ -1,6 +1,7 @@
-macos
-.dbeaver
+/*
+!General
+General/*
+!/**/Scripts
+/**/Scripts/*
+!/**/music_service_scripts
 Script*.sql
-.project
-.settings
-.DS_Store
